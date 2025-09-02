@@ -1,0 +1,163 @@
+✅ Array Tasks (1–20)
+
+Find the second largest number in an array
+
+Rotate an array by K positions
+
+Find the missing number in a sequence
+
+Remove duplicates from an array
+
+Check if two arrays are equal
+
+Merge two sorted arrays
+
+Move all zeroes to end
+
+Find the frequency of each element
+
+Sort an array without using .sort()
+
+Find the longest consecutive sequence
+
+Find the intersection of two arrays
+
+Find the union of two arrays
+
+Replace every element with the greatest element on right
+
+Find first repeating element
+
+Find the subarray with a given sum
+
+Find the majority element
+
+Maximum product of two elements
+
+Find the pair with sum closest to 0
+
+Kadane’s algorithm (Max subarray sum)
+
+Count number of subarrays with a given XOR
+
+✅ String Tasks (21–40)
+
+Reverse a string
+
+Check for palindrome
+
+Longest substring without repeating characters
+
+Anagram check
+
+Count vowels and consonants
+
+Find first non-repeating character
+
+Remove duplicate characters
+
+Compress a string (e.g., aabbb → a2b3)
+
+Check if two strings are rotations
+
+Longest palindromic substring
+
+Toggle case of each character
+
+Find all permutations of a string
+
+Replace spaces with %20
+
+Check if one string is a subsequence of another
+
+Capitalize each word in a sentence
+
+Count word frequency
+
+Implement basic string search
+
+Check if sentence is a pangram
+
+Convert string to integer (like parseInt)
+
+Implement startsWith and endsWith functions
+
+✅ Number Tasks (41–55)
+
+Check if a number is prime
+
+Generate Fibonacci series
+
+Find factorial using recursion
+
+Find GCD of two numbers
+
+Convert number to binary
+
+Count digits of a number
+
+Check for Armstrong number
+
+Find all prime numbers in a range
+
+Reverse digits of a number
+
+Sum of digits until single digit remains
+
+Check if a number is a power of 2
+
+Convert Roman numerals to integer
+
+Convert integer to Roman numerals
+
+Check if number is palindrome
+
+Find nth Fibonacci number
+
+✅ Object/Map/Set Tasks (56–65)
+
+Count character frequency using object
+
+Merge two objects
+
+Convert object to array of key-value pairs
+
+Deep clone an object
+
+Find difference between two objects
+
+Remove keys with falsy values
+
+Flatten a nested object
+
+Count keys in a nested object
+
+Compare two objects deeply
+
+Group elements by property value
+
+✅ Recursion Tasks (66–75)
+
+Factorial using recursion
+
+Sum of N numbers using recursion
+
+Print reverse of string using recursion
+
+Find nth Fibonacci number (recursive)
+
+Flatten nested array recursively
+
+Reverse a linked list recursively
+
+Generate all subsets of a set
+
+Permutations of string recursively
+
+Tower of Hanoi
+
+Binary search using recursion
+
+✅ Sorting & Searching (76–85)
+
+Implement Bubble Sort
