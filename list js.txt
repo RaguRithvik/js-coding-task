@@ -2,6 +2,8 @@
 
 Find the second largest number in an array
 
+Kth Largest Element in an Array
+
 Rotate an array by K positions
 
 Find the missing number in a sequence
