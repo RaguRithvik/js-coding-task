@@ -1,20 +1,20 @@
 ✅ Array Tasks (1–20)
 
-Find the second largest number in an array
+Find the second largest number in an array - P
 
-Kth Largest Element in an Array
+Kth Largest Element in an Array -P
 
-Rotate an array by K positions
+Rotate an array by K positions - P
 
 Find the missing number in a sequence
 
-Remove duplicates from an array
+Remove duplicates from an array - P
 
 Check if two arrays are equal
 
 Merge two sorted arrays
 
-Move all zeroes to end
+Move all zeroes to end - P
 
 Find the frequency of each element
 
@@ -38,31 +38,31 @@ Maximum product of two elements
 
 Find the pair with sum closest to 0
 
-Kadane’s algorithm (Max subarray sum)
+Kadane’s algorithm (Max subarray sum) -P
 
 Count number of subarrays with a given XOR
 
 ✅ String Tasks (21–40)
 
-Reverse a string
+Reverse a string - P
 
 Check for palindrome
 
-Longest substring without repeating characters
+Longest substring without repeating characters - P
 
-Anagram check
+Anagram check - P
 
-Count vowels and consonants
+Count vowels and consonants - P 
 
-Find first non-repeating character
+Find first non-repeating character - P
 
-Remove duplicate characters
+Remove duplicate characters - P
 
-Compress a string (e.g., aabbb → a2b3)
+Compress a string (e.g., aabbb → a2b3) - P
+ 
+Check if two strings are rotations  -P
 
-Check if two strings are rotations
-
-Longest palindromic substring
+Longest palindromic substring - P
 
 Toggle case of each character
 
